@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685947682863",
+    "project_id": "a-edb-fondospantalla",
+    "storage_bucket": "a-edb-fondospantalla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685947682863:android:a6dece758085d2222f06da",
+        "android_client_info": {
+          "package_name": "com.example.fondodepantallainiciall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHdo8fbwINNujtudLOpTJ08yUO1BOdZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
