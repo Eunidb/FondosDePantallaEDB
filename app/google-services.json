@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842358822798",
+    "project_id": "a-fondosdepantallaedb",
+    "storage_bucket": "a-fondosdepantallaedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842358822798:android:51972003abd40e18fdf6df",
+        "android_client_info": {
+          "package_name": "com.example.fondodepantallainiciall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNWZzIh8g-YjGh9oPKUOA6VqtgWROS1G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
