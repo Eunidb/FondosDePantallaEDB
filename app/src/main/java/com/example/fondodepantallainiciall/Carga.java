@@ -2,10 +2,8 @@ package com.example.fondodepantallainiciall;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
-import android.graphics.Typeface;
 import android.os.Bundle;
 import android.os.Handler;
-import android.widget.TextView;
 
 public class Carga extends AppCompatActivity {
 
@@ -21,7 +19,7 @@ public class Carga extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent = new Intent(Carga.this, MainActivity.class);
+                Intent intent = new Intent(Carga.this, MainActivityAdministrador.class);
                 startActivity(intent);
                 finish();
             }

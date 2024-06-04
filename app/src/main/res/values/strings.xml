@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">Fondo de pantalla inicial</string>
+    <string name="app_name">Fondo de pantalla EDB</string>
     <string name="desarrollador">Derechos Reservados:Eunice Diaz</string>
+
+    <string name="InicioAdmin">Inicio</string>
+    <string name="PerfilAdmin">Perfil</string>
+    <string name="RegistrarAdmin">Registrar</string>
+    <string name="ListarAdmin">Lista de administradores</string>
+    <string name="Salir">Cerrar sesión</string>
 </resources>
