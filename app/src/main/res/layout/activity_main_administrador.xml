@@ -9,7 +9,8 @@
     android:fitsSystemWindows="true"
     android:background="#fff"
     tools:context=".MainActivityAdministrador"
-    tools:openDrawer="start">
+    tools:openDrawer="start"
+    >
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
@@ -37,7 +38,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         app:headerLayout="@layout/encabezado"
-        app:menu="@menu/menu"
+        app:menu="@menu/menu_admin"
         android:background="#fff"
         app:itemTextColor="#000"/>
 

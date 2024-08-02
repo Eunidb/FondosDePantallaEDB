@@ -17,14 +17,14 @@
         <androidx.appcompat.widget.AppCompatImageView
             android:layout_width="250dp"
             android:layout_height="250dp"
-            android:src="@drawable/avatar" />
+            android:src="@drawable/avtar" />
 
         <TextView
             android:id="@+id/app_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/app_name"
-            android:fontFamily="@font/sans_medio"
+            android:fontFamily="@font/sans_negrita"
             android:textSize="20sp"
             android:textColor="#000"
             android:layout_marginTop="10dp"
@@ -35,8 +35,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/desarrollador"
-            android:fontFamily="@font/sans_negrita"
             android:textSize="12sp"
+            android:fontFamily="@font/sans_negrita"
             android:textColor="#000"
             android:layout_marginTop="10dp"
             android:gravity="center" />

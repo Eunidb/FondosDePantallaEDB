@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "685947682863",
-    "project_id": "a-edb-fondospantalla",
-    "storage_bucket": "a-edb-fondospantalla.appspot.com"
+    "project_number": "842358822798",
+    "firebase_url": "https://a-fondosdepantallaedb-default-rtdb.firebaseio.com",
+    "project_id": "a-fondosdepantallaedb",
+    "storage_bucket": "a-fondosdepantallaedb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:685947682863:android:a6dece758085d2222f06da",
+        "mobilesdk_app_id": "1:842358822798:android:51972003abd40e18fdf6df",
         "android_client_info": {
           "package_name": "com.example.fondodepantallainiciall"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBOHdo8fbwINNujtudLOpTJ08yUO1BOdZY"
+          "current_key": "AIzaSyCNWZzIh8g-YjGh9oPKUOA6VqtgWROS1G4"
         }
       ],
       "services": {

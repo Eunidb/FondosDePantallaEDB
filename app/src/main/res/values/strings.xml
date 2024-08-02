@@ -1,10 +1,53 @@
 <resources>
-    <string name="app_name">Fondo de pantalla EDB</string>
-    <string name="desarrollador">Derechos Reservados:Eunice Diaz</string>
+    <string name="app_name">Fondos de pantalla EDB</string>
+    <string name="desarrollador">Derechos reservados: Eunice Barrios</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
 
     <string name="InicioAdmin">Inicio</string>
     <string name="PerfilAdmin">Perfil</string>
     <string name="RegistrarAdmin">Registrar</string>
     <string name="ListarAdmin">Lista de administradores</string>
     <string name="Salir">Cerrar sesión</string>
+
+    <string name="Opcionestxt">Opciones</string>
+    <string name="InicioCliente">Inicio</string>
+
+    <string name="MasOpciones">Más opciones</string>
+
+    <string name="AcercaDe">Acerca de</string>
+    <string name="Compartir">Compartir</string>
+    <string name="Registrar">Registrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--    strings de los administradores-->
+    <string name="RegistroTXT">Registro de Administradores</string>
+    <string name="Correo">Correo electrónico</string>
+    <string name="Password">Contraseña</string>
+    <string name="Nombres">Nombre completo</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="Edad">Edad</string>
+    <string name="FechaRegistro">Fecha de Registro</string>
+    <string name="Acceder">Acceder</string>
+
+
+    <string name="LoginTXT">Login de Administradores</string>
+    <string name="Ingresar">Ingresar</string>
+
+    <!--Categorías-->
+    <string name="Eligeunacategoriatxt">Elige Categoría</string>
+    <string name="Peliculas">Películas</string>
+    <string name="Series">Series</string>
+    <string name="Musica">Música</string>
+    <string name="VideoJuegos">Video Juegos</string>
+
+
+
 </resources>
